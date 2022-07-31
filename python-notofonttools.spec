@@ -9,6 +9,7 @@ Group:		Development/Python
 BuildRequires:	python-setuptools
 BuildRequires:	python%{py_ver}dist(pip)
 BuildRequires:	python%{py_ver}dist(wheel)
+BuildRequires:	python%{py_ver}dist(tomli)
 BuildRequires:	python%{py_ver}dist(setuptools-scm)
 BuildArch:	noarch
 
