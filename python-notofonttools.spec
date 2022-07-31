@@ -7,6 +7,8 @@ URL:		https://pypi.org/project/notofonttools/
 License:	Apache
 Group:		Development/Python
 BuildRequires:	python-setuptools
+BuildRequires:	python%{py_ver}dist(pip)
+BuildRequires:	python%{py_ver}dist(wheel)
 BuildArch:	noarch
 
 %description
