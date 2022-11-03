@@ -1,5 +1,5 @@
 Name:		python-notofonttools
-Version:	0.2.16
+Version:	0.2.17
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/n/notofonttools/notofonttools-%{version}.tar.gz
 Summary:	Noto font tools
